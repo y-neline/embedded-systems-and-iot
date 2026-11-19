@@ -6,7 +6,7 @@ These projects were developed collaboratively during my Computer Science studies
 
 ## Projects
 
-### 1. Networked IMU Monitoring System
+### 1. [Networked IMU Monitoring System](./networked-imu-monitoring)
 
 **Technologies:** C++, Qt 6, Raspberry Pi, Linux, I²C, TCP/IP, OpenGL
 
