@@ -2,8 +2,6 @@
 
 An automated robotic system built with Arduino Uno, photoresistors, and servo motors to play the mobile game *Piano Tiles* in real time.
 
-![Hardware Setup](images/hardware_setup.jpg)
-
 ## Overview
 The robot detects incoming black tiles on a smartphone screen using four photoresistors. When a black tile passes beneath a sensor, the corresponding servo motor rotates a metallic arm fitted with a capacitive stylus to tap the screen and immediately returns to its resting position.
 
