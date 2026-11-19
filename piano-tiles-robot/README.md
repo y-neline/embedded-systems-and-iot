@@ -33,7 +33,7 @@ The robot detects incoming black tiles on a smartphone screen using four photore
 
 ## Schematic Layout
 
-![Schematic Diagram](images/schematic_diagram.png)
+![Schematic Diagram](images/schematic_diagram.jpg)
 
 1. **Servo Motors** (2 mounted on the left, 2 on the right to prevent crowding)
 2. **Metallic Sticks & Stylus Pens**
