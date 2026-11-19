@@ -32,7 +32,7 @@ A mobile robot controlled remotely through a browser-based interface.
 - Live video streaming from a connected USB camera.
 - Hardware integration and debugging.
 
-### 3. LoRa-Based Time Dissemination System
+### 3. [LoRa-Based Time Dissemination System](./lora-time-dissemination)
 
 **Technologies:** ESP32, MicroPython, LoRa, GPS, UART, SPI, I²C
 
