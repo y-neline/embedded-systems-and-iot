@@ -19,7 +19,7 @@ A sensor-monitoring system that processes inertial measurement unit (IMU) data o
 - Multithreaded TCP server for sensor processing and communication.
 - Qt desktop application for real-time 3D orientation visualization.
 
-### 2. Web-Controlled Mobile Robot
+### 2. [Web-Controlled Mobile Robot](./web-controlled-mobile-robot)
 
 **Technologies:** C++, Python, Raspberry Pi, Flask, GPIO, PWM, HTML, JavaScript
 
