@@ -45,7 +45,7 @@ A wireless communication prototype for transmitting GPS-derived time information
 - OLED display for received information.
 - Telegram bot integration for remote monitoring.
 
-### 4. Arduino-Based Automated Piano Tiles Robot
+### 4. [Arduino-Based Automated Piano Tiles Robot](./piano-tiles-robot)
 
 **Technologies:** Arduino Uno, C++, Photoresistors, Servomotors
 
